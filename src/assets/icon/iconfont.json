@@ -1,0 +1,37 @@
+{
+  "id": "2072586",
+  "name": "e'm's",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-ems",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2161111",
+      "name": "课程",
+      "font_class": "kecheng",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "11121017",
+      "name": "成绩",
+      "font_class": "chengji",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "12853901",
+      "name": "选课",
+      "font_class": "xuanke",
+      "unicode": "e821",
+      "unicode_decimal": 59425
+    },
+    {
+      "icon_id": "12683880",
+      "name": "首页",
+      "font_class": "icon_huabanfuben",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
